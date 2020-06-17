@@ -23,8 +23,6 @@ print('puede asignarse')
 */
 
 /**
- *
- *
  * @class Order
  */
 class Order {
