@@ -23,8 +23,7 @@ Resultado:>> x(1, 2) = 4
 
 ## Problema 2
 
-Considere una orden y un rappitendero, cada uno con un tag de complejidad asociado. Por cada ciclo en el tiempo, el tag de las órdenes puede ser menos riguroso para que otros rappitenderos
- puedan realizarla, abriendo las posibilidades de búsqueda.
+Considere una orden y un tendero, cada uno con un tag de complejidad asociado. Por cada ciclo en el tiempo, el tag de las órdenes puede ser menos riguroso para que otros tenderos puedan realizarla, abriendo las posibilidades de búsqueda.
 
 Ejemplo:
 
