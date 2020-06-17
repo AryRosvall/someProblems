@@ -1,0 +1,11 @@
+{
+  "name": "someproblems",
+  "version": "1.0.0",
+  "description": "Some problems to resolve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AryRosvall <aryrosvall@gmail.com>",
+  "license": "MIT"
+}
